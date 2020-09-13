@@ -1,12 +1,12 @@
 # Gadgets
 
-#### Small apps to be displayed as one single page webapp.
+## Small apps to be displayed as one single page web app.
 
 ### Local setup
 
 Make sure you have installed:
 - [Python 3.7](https://www.python.org/downloads/)
-- [{oetry](https://python-poetry.org/docs/#installation)
+- [Poetry](https://python-poetry.org/docs/#installation)
 - [Node](https://nodejs.org/en/download/)
 - [Yarn](https://classic.yarnpkg.com/en/docs/install)
 
